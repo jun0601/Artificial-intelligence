@@ -1,0 +1,11 @@
+2.
+ gpu 사용할건지 
+3.
+하이퍼 파라미터 값 정의
+4.
+torch.utils.data.DataLoader로 데이터 읽어오기/ 셔플 하기
+5.
+trainloader변수에 있는 값을 꺼내기 위해 iter 연산자 사용
+
+6. class를 선언해서 network 사용 
+forward함수는 연결해주는거
